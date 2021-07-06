@@ -31,7 +31,7 @@ span{
 }
 section{
     display: flex;
-    margin-bottom: 100%;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -49,16 +49,13 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 25px;
-
-
     
-
-
-    
-    
-
-
-
-
-
+    }
+    .half-width-2{
+        background-image: url(image/Frame\ 59.jpg);
+        background-repeat: no-repeat;}
+    .half-width-2{
+        width: 50%;
+        padding: 2%;
+    }
 
